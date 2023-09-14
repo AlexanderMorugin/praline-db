@@ -1,4 +1,4 @@
-{ "cakes": [
+[
   {
     "id": 1,
     "image": "https://pralinecake.ru/images/docs/napoleon_tort-l-2.jpg", 
@@ -41,4 +41,4 @@
     "description": "Торт Наполеон приготовленный из хрустящего слоеного теста и мягкого сливочного крема",
     "price": 400
   }
-]}
+]
